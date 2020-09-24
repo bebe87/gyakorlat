@@ -1,0 +1,2 @@
+# gyakorlat
+Elso repository!
